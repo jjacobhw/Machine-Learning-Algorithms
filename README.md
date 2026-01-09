@@ -1,4 +1,4 @@
-# ML Projects
+# ML Algorithms
 
 A collection of personal machine learning algorithm implementations and experiments. I created these to further teach myself how common ML algorithms operate underneath the hood.
 
