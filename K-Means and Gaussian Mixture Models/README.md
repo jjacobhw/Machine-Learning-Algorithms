@@ -12,7 +12,7 @@ The notebook demonstrates:
 
 ## Dataset
 
-The dataset ([hw4_dataset.csv](hw4_dataset.csv)) contains animal measurements with two features:
+The dataset contains animal measurements with two features:
 - **Weight** (kg)
 - **Length** (cm)
 
@@ -90,7 +90,7 @@ jupyter notebook hw4.ipynb
 Execute cells sequentially to:
 1. Load and visualize the dataset
 2. Train custom and scikit-learn clustering models
-3. Determine optimal K using elbow method
+3. Determine optimal K using the elbow method
 4. Compare clustering results
 5. Analyze cluster characteristics
 
